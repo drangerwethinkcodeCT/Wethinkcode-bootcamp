@@ -1,3 +1,3 @@
 %>sh who_am_i.sh
-uid=test,ou=2013,ou=people,dc=42,dc=fr
+uid=dylanr,ou=2020,ou=student,dc=42,dc=ct
 %>
