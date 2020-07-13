@@ -26,6 +26,6 @@ int ft_recursive_power(int nb, int power)
     {
         return (nb);
     } else {
-		return nb * ft_recursive_power(nb, power - 1);
+	return nb * ft_recursive_power(nb, power - 1);
     }
 }
